@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m currently start learning UI Design and Web Front end Development.
+I’m UX/ UI Designer, currently starting learning Web Front end Development.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunaSza)](https://github.com/anuraghazra/github-readme-stats)
